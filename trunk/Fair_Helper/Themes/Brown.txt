@@ -1,0 +1,9 @@
+themeName: BROWN
+
+backgroundColor1:  #a0522d
+backgroundColor2:  #cd853f
+labelColor1: #deb887
+fieldBackgroundColor1:  #a0522d
+fieldForegroundColor1: #deb887
+buttonBackgroundColor1: #a0522d
+buttonForegroundColor1: #deb887

@@ -1,0 +1,26 @@
+					  Yapılan Önemli değişiklikler
+#Tarih#Saat#Kullanici#Yapilan degisiklik     Seklinde yazalımki kolay okuyalim
+
+#08.10.2009#23:55#Feoran#Password Coder için kullanma kılavuzu eklendi.
+
+#14.10.2009#13:27#Feoran#Tema desteği tamamlandı ve test edildi. Küçük güncellemelere ihtiyaç olsa da kullanıma hazırdır.
+
+#14.10.2009#13:27#Feoran#Login kontrolü tamamlandı. Sistem giriş yapan kullanıcı mevcut ise tanıyor yoksa uyarı mesajı gösteriliyor.
+
+#14.10.2009#14:32#Feoran#Dil desteği tamamlandı ve test edildi. Küçük güncellemelere ihtiyaç olsa da kullanıma hazırdır.
+
+haneye yardım türleri:
+yakacak
+barınma
+maddi yardim
+mobilya
+gıda
+
+kişiye yardim türleri:
+eğitim
+sağlık
+giyinme
+maddi
+
+Haneye sorulcaklar
+Ev?

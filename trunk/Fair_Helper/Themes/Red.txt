@@ -1,0 +1,9 @@
+themeName: RED
+
+backgroundColor1: #b22222
+backgroundColor2: #8b7765
+labelColor1: #faebd7
+fieldBackgroundColor1: #b22222
+fieldForegroundColor1: #faebd7
+buttonBackgroundColor1:#b22222
+buttonForegroundColor1:#faebd7

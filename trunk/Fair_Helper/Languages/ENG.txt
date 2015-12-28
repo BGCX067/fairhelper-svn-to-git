@@ -1,0 +1,151 @@
+langCode: ENG
+
+# LANGUAGE NAMES
+langNameTR: Turkish
+langNameENG: English
+
+# THEMES
+themeLabel: Theme:
+themeNameBrown: Brown
+themeNameDark: Dark
+themeNameGreen: Green
+themeNamePink: Pink
+themeNameRed: Red
+themeNameSimple: Simple
+
+#   ROLE NAMES
+roleNameSuperAdmin: Super Admin
+roleNameAdmin: Admin
+roleNameUser: User
+
+# BUTTONS
+loginButton: Login
+cleanButton: Clean
+closeButton: Close Program
+exitAccountButton: Exit Account
+mainPageTabTitle: Main Page
+manageUsersTabTitle: Manage Users
+manageHousesTabTitle: Manage Houses
+manageHelpsTabTitle: Manage Helps
+settingsTabTitle: Settings
+settingsButton: Settings
+addButton: Add
+backButton: Back
+cancelButton: Cancel
+okButton: OK
+yesButton: Yes
+noButton: No
+searchUserButton: Search User
+deleteUserButton: Delete User
+updateUserPanelButton: Update User
+manageUsersPanelButton: Manage Users
+addUserPanelButton: Add Users
+saveChangesButton: Save
+returnToDefaultButton: Reset Changes
+manageHousesPanelButton: Manage Houses
+addHousePanelButton: Add House
+addPersonPanelButton: Add Person
+manageHelpsPanelButton: Manage Helps
+addHelpKindPanelButton: Add Help Type
+updateButton: Update
+searchHelpButton: Search Help
+deleteHelpButton: Delete Help
+updateHelpPanelButton: Update Help
+manageHouseHelpsPanelButton: Manage Helps For Houses
+managePersonHelpsPanelButton: Manage Helps For People
+helpToButton: Help
+
+# MESSAGES
+wellcomeMessage: Welcome
+enterUserNameMessage: Please enter a user name.
+enterPasswordMessage: Please enter a password.
+enterOldPasswordMessage: You have to enter the old password to change the password.
+enterNewPasswordMessage: You have to enter a new password to change the password.
+enterNewPasswordAgainMessage: You have to enter the new password again to change the password.
+newPasswordsNotSameMessage: New passwords you have entered are not same.
+userCouldntFoundMessage: User couldn't found.
+closeProgramMessage: Are you sure to close the program?
+userAddedMessage: User added.
+passwordWrongMessage: Please reenter your password.
+oldPasswordWrondMeaage: Please reenter your old password.
+userAlreadyExistsMessage: user already exists.
+passwordWrongCharsMessage: Password has unwanted characters.
+usernameWrongCharsMessage: Username has unwanted characters.
+deleteUserMessage: Are you sure to delete the user?
+wrongHouseMessage: Wrong house name.
+personAddedMessage: Person added.
+houseAddedMessage: House added.
+houseUpdatedMessage: House updated.
+helpAddedMessage: Help type added.
+userUpdatedMessage: User has been succesfuly updated.
+notEnoughHelpPointMessage: You cannot add this help.
+enterHouseNameMessage: You should enter a house name.
+selectHouseStateMessage: You should choose a house state.
+deleteHouseMessage: Are you sure to delete the house.
+helpCannotAddMessage: You cannot add this help kind.
+personUpdatedMessage: Person has updated.
+helpCouldntFoundMessage: Help couldn't found.
+deleteHelpMessage: Are you sure to delete the help type?
+personCouldntFoundMessage: Person couldn't found.
+deletePersonMessage: Are you sure to delete the person?
+houseCouldntFoundMessage: House couldn't found.
+deleteHouseMessage: Are you sure to delete the house?
+fillAllFieldsMessage: Fill all fields.
+tcIsNotNumberMessage: Tc number should be digit.
+helpCannotUpdate: Help cannot be updated.
+helpUpdatedMessage: Help type updated.
+
+# LABELS
+userNameLabel: User Name:
+passwordLabel: Password:
+passwordAgainLabel: Password(Again):
+oldPasswordLabel: Old Password:
+newPasswordLabel: New Password:
+newPasswordAgainLabel: New Password(Again);
+firstNameField: First Name:
+personLabel: Person
+houseLabel: House
+surnameField: Surname:
+roleLabel: Role:
+userIdLabel: User ID:
+addUserPanelMainLabel: FILL THIS FORM
+houseNameLabel:  House Name:
+houseIdLabel: House ID:
+housePersonNumberLabel: Person Number:
+houseHelpPointLabel:  Help Point:
+houseStateLabel: House State:
+houseTypeLabel: House Type:
+houseHeatTypeLabel: Warming Type:
+houseMonthlyIncomeLabel: House Monthly Income:
+addHousePanelMainLabel: Fill this form
+addHouseRentalLabel: Rent
+addHouseOwnHouseLabel: Own House
+tcNoLabel: TC Number:
+birthdateLabel: Birthdate:
+houseRoleLabel: House Role:
+healthProblemLabel: Health Problem:
+varLabel: Yes
+yokLabel: No
+healthInsuranceLabel: Health Insurance:
+personMonthlyIncomeLabel: Person Monthly Income:
+helpKindPointLabel: Help Point:
+helpKindHelpNameLabel: Help Name:
+personOrHouseLabel: Person Or House:
+languageLabel: Language:
+updateHouseHeadingLabel: UPDATE HOUSE
+educationStateLabel: Education State:
+fullNameLabel: Full Name:
+
+# MONTHS
+january: January
+february: February
+march: March
+april: April
+may: May
+june: June
+july: July
+august: August
+september: September
+october: October
+november: November
+december: December

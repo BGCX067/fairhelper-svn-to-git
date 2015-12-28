@@ -1,0 +1,9 @@
+themeName: DARK
+
+backgroundColor1: DARK_GRAY
+backgroundColor2: GRAY
+labelColor1: WHITE
+fieldBackgroundColor1: DARK_GRAY
+fieldForegroundColor1: WHITE
+buttonBackgroundColor1:DARK_GRAY
+buttonForegroundColor1:WHITE

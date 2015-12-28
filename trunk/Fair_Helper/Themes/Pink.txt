@@ -1,0 +1,9 @@
+themeName: PINK
+
+backgroundColor1:  #b03060
+backgroundColor2: #cdaf95
+labelColor1: #ffefd5
+fieldBackgroundColor1:  #b03060
+fieldForegroundColor1: #ffefd5
+buttonBackgroundColor1: #b03060
+buttonForegroundColor1:#ffefd5

@@ -1,0 +1,9 @@
+themeName: Simple
+
+backgroundColor1: GRAY
+backgroundColor2: WHITE
+labelColor1: BLACK
+fieldBackgroundColor1: LIGHT_GRAY
+fieldForegroundColor1: BLACK
+buttonBackgroundColor1: GRAY
+buttonForegroundColor1: WHITE

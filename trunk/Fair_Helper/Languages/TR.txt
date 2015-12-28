@@ -1,0 +1,152 @@
+langCode: TR
+
+# LANGUAGE NAMES
+langNameTR: Türkçe
+langNameENG: İngilizce
+
+# THEMES
+themeLabel: Tema:
+themeNameBrown: Kahverengi
+themeNameDark: Karanlık
+themeNameGreen: Yeşil
+themeNamePink: Pembe
+themeNameRed: Kırmızı
+themeNameSimple: Sade
+
+#   ROLE NAMES
+roleNameSuperAdmin: Süper Müdür
+roleNameAdmin: Müdür
+roleNameUser: Eleman
+
+# BUTTONS
+loginButton: GİRİŞ
+cleanButton: TEMİZLE
+closeButton: Programı Kapat
+exitAccountButton: Oturumu Kapat
+mainPageTabTitle: Anasayfa
+manageUsersTabTitle: Kullanıcı İşlemleri
+manageHousesTabTitle: Hane İşlemleri
+manageHelpsTabTitle: Yardım İşlemleri
+backButton: Geri
+settingsTabTitle: Ayarlar
+settingsButton: Ayarlar
+addButton: Ekle
+cancelButton: İptal
+okButton: Tamam
+yesButton: Evet
+noButton: Hayır
+searchUserButton: Kullanıcı Ara
+deleteUserButton: Kullanıcı Sil
+updateUserPanelButton: Kullanıcı Güncelle
+manageUsersPanelButton: Kullanıcıları Yönet
+addUserPanelButton: Kullanıcı Ekle
+saveChangesButton: Kaydet
+returnToDefaultButton: Başa Dön
+manageHousesPanelButton: Haneleri Yönet
+addHousePanelButton: Hane Ekle
+addPersonPanelButton: Kişi Ekle
+manageHelpsPanelButton: Yardımları Yönet
+addHelpKindPanelButton: Yardım Türü Ekle
+updateButton: Güncelle
+searchHelpButton: Yardım Ara
+deleteHelpButton: Yardımı Sil
+updateHelpPanelButton: Yardımı Güncelle
+manageHouseHelpsPanelButton: Haneye Yardım İşlemleri
+managePersonHelpsPanelButton: Kişiye Yardım İşlemleri
+helpToButton: Yardım Et
+
+# MESSAGES
+wellcomeMessage: Hoşgeldiniz
+enterUserNameMessage: Lütfen bir kullanıcı adı giriniz.
+enterPasswordMessage: Lütfen bir şifre giriniz.
+enterOldPasswordMessage: Şifreyi değiştirmek için eski şifreyi girmelisiniz.
+enterNewPasswordMessage: Değiştirmek için yeni şifreyi girmelisiniz.
+enterNewPasswordAgainMessage: Değiştirmek için yeni şifreyi tekrar girmelisiniz.
+newPasswordsNotSameMessage: Yeni şifre için girdiğiniz değerler uyuşmuyor.
+userCouldntFoundMessage: Kullanıcı bulunamadı.
+closeProgramMessage: Programı kapatmak istediğinizden eminmisiniz?
+userAddedMessage: Kullanıcı eklendi.
+passwordWrongMessage: Şifrenizi tekrar giriniz.
+oldPasswordWrondMeaage: Eski şifrenizi tekrar giriniz.
+userAlreadyExistsMessage: adlı kullanıcı var.
+passwordWrongCharsMessage: Parolada istenmeyen karakterler var.
+usernameWrongCharsMessage: Kullanıcı adında istenmeyen karakterler var.
+deleteUserMessage: Kullanıcıyı silmek istediğinizden eminmisiniz?
+wrongHouseMessage: Yanlış hane.
+personAddedMessage: Kişi eklendi.
+houseAddedMessage: Hane eklendi.
+houseUpdatedMessage: Hane güncellendi.
+helpAddedMessage: Yardim türü eklendi.
+userUpdatedMessage: Kullanıcı bilgileri başarı ile güncellendi.
+notEnoughHelpPointMessage: Bu yardımı ekleyemezsiniz.
+enterHouseNameMessage: Bir hane adı girmelisiniz.
+selectHouseStateMessage: Bir hane durumu seçmelisiniz.
+deleteHouseMessage: Haneyi silmek istediğinizden emin misiniz?
+helpCannotAddMessage: Bu yardım türünü ekliyemezsiniz.
+personUpdatedMessage: Kişi güncellendi.
+helpCouldntFoundMessage: Yardım türü bulunamadı.
+deleteHelpMessage: Yardım türünü silmek istediğinizden eminmisiniz?
+personCouldntFoundMessage: Kişi bulunamadı.
+deletePersonMessage: Kişiyi silmek istediğinizden eminmisiniz?
+houseCouldntFoundMessage: Hane bulunamadı.
+deleteHouseMessage: Haneyi istediğinizden eminmisiniz?
+fillAllFieldsMessage: Eksik bilgi girdiniz.
+tcIsNotNumberMessage: Girdiğiniz tc no sayı değil.
+helpCannotUpdate: Yardım update edilemedi.
+helpUpdatedMessage: Yardım güncellendi.
+
+# LABELS
+userNameLabel: Kullanıcı Adı:
+passwordLabel: Şifre:
+passwordAgainLabel: Şifre(Tekrar):
+oldPasswordLabel: Eski Şifre:
+newPasswordLabel: Yeni Şifre:
+newPasswordAgainLabel: Yeni Şifre(Tekrar):
+personLabel: Kişi
+houseLabel: Hane
+firstNameField: Adı:
+surnameField: Soyadı:
+roleLabel: Rolü:
+tcNoLabel: TC Numarası:
+userIdLabel: Kullanıcı ID:
+addUserPanelMainLabel: EKLEYECEĞİNİZ KULLANICININ KULLANICI BİLGİLERİNİ GİRİNİZ
+houseNameLabel:  Hane Adı:
+houseIdLabel: Hane ID:
+housePersonNumberLabel: Kişi Sayısı:
+houseHelpPointLabel: Muhtaçlık Puanı:
+houseStateLabel: Hane Durumu:
+houseTypeLabel: Hane Tipi:
+houseHeatTypeLabel: Isınma Tipi:
+houseMonthlyIncomeLabel: Hanenin Aylık Geliri:
+addHouseOwnHouseLabel: Kendine Ait
+addHouseRentalLabel: Kira
+addHousePanelMainLabel: EKLEMEK İSTEDİĞİNİZ HANENİN HANE BİLGİLERİNİ GİRİNİZ
+birthdateLabel: Doğum Tarihi:
+houseRoleLabel: Akrabalık Tipi:
+healthProblemLabel: Sağlık Problemi:
+varLabel: Var
+yokLabel: Yok
+healthInsuranceLabel: Sağlık Sigortası:
+personMonthlyIncomeLabel: Kişinin Aylık Geliri:
+helpKindPointLabel: Yardim Puanı:
+helpKindHelpNameLabel: Yardim Adı:
+personOrHouseLabel: Kisimi Hanemi:
+languageLabel: Dil:
+updateHouseHeadingLabel: HANE GÜNCELLE
+educationStateLabel: Eğitim Durumu:
+fullNameLabel: Tam Adı:
+
+
+# MONTHS
+january: Ocak
+february: Şubak
+march: Mart
+april: Nisan
+may: Mayıs
+june: Haziran
+july: Temmuz
+august: Ağustos
+september: Eylül
+october: Ekim
+november: Kasım
+december: Aralık
